@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification App</string>
+    <string name="create_new_notification_label">Create new\nnotification</string>
+    <string name="notification_title_label">You create a notification</string>
+    <string name="notification_text_label">Notification &#160;</string>
+    <string name="channel_name">Sample Fragment</string>
+    <string name="channel_description">Sample Fragment Notifications</string>
+</resources>
